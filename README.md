@@ -1,3 +1,4 @@
 # Tarefas
-Tentando fazer um commit
-Isso é uma nova alteração para teste...
+Tentando fazer um commit e resolvendo conflitos
+
+
